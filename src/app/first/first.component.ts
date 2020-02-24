@@ -1,5 +1,3 @@
-// Copyright (C) IHS Markit. All Rights Reserved.
-
 import { Component, OnInit } from '@angular/core';
 
 @Component({

@@ -1,5 +1,3 @@
-// Copyright (C) IHS Markit. All Rights Reserved.
-
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 

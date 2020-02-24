@@ -1,5 +1,3 @@
-// Copyright (C) IHS Markit. All Rights Reserved.
-
 import { Action, createReducer, on,  } from '@ngrx/store';
 import * as SharedActions from './shared.actions';
 import { SharedState, initialState } from './shared.state';

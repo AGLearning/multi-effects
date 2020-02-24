@@ -1,5 +1,3 @@
-// Copyright (C) IHS Markit. All Rights Reserved.
-
 import { AbstractDataService } from '../shared/data.service';
 import { of } from 'rxjs';
 

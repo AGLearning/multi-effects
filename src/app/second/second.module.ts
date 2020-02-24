@@ -1,5 +1,3 @@
-// Copyright (C) IHS Markit. All Rights Reserved.
-
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SecondComponent } from './second.component';

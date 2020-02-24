@@ -1,5 +1,3 @@
-// Copyright (C) IHS Markit. All Rights Reserved.
-
 import { createSelector } from '@ngrx/store';
 import { SharedState } from './shared.state';
 

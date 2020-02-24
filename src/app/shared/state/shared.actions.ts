@@ -1,5 +1,3 @@
-// Copyright (C) IHS Markit. All Rights Reserved.
-
 import { createAction, props } from '@ngrx/store';
 
 export const getData = createAction(

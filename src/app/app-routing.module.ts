@@ -1,5 +1,3 @@
-// Copyright (C) IHS Markit. All Rights Reserved.
-
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
