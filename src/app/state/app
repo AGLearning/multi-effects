@@ -1,0 +1,9 @@
+import { createAction, props } from '@ngrx/store';
+
+export const getData = getData(
+  '[App] Get Data'
+);
+
+export const setData = setData(
+  '[App] Set Data'
+);
